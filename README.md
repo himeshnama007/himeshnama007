@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/himeshnama007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himeshnama007" height="30" width="40" /></a>
+<a href="https://x.com/himeshnama07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himeshnama007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himeshnama007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himeshnama007" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/himeshnama07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himeshnama07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himeshnama07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himeshnama07" height="30" width="40" /></a>
